@@ -190,8 +190,8 @@ Result: The partition state might temporarily show DOWN or DRAIN until the new n
 
 
 👤 Author
-Prashant Bhopale
-Email: prashantbhopale67@gmail.com
-https://github.com/Prash2355
+Samiksha Chavan
+Email: chavansamiksham@gmail.com
+https://github.com/samikshachav315
 
 
