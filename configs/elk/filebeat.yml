@@ -1,0 +1,2 @@
+output.logstash:
+  hosts: ["monitor-1:5044"]
